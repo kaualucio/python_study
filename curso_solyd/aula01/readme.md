@@ -1,0 +1,1 @@
+Variáveis, tipos, entrada, saída e operadores arítméticos 
